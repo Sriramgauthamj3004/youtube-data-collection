@@ -39,9 +39,13 @@ Migartion of data from the data collections in mongodb and convert into tabular 
 Search and retriveal of data from the sql data base using different search options
 
 from googleapiclient.discovery import build
+
 import pymongo
+
 import psycopg2
+
 import pandas as pd
+
 import streamlit as st
 
 #API KEY CONNECTION
