@@ -32,7 +32,7 @@ PYTHON:
  5.psycopg2
 
  FEATURES:
-YOUTUBE DATA HARVESTING: This project is used for collecting the channel id from the youtube channel using the api key.Then gettting a channel id and making a code for extracting a dta using the python language get the inforamtion of channel regarding channels information and video information using the youtube api.
+YOUTUBE DATA HARVESTING: This project is used for collecting the channel id from the youtube channel using the api key.Then gettting a channel id and making a code for extracting a data using the python language get the inforamtion of channel regarding channels information and video information using the youtube api.
 
 Storage of data in MONGODB database as a data collections or data list.
 Migartion of data from the data collections in mongodb and convert into tabular form to a SQL database for effiecient querying and analysis.
